@@ -1,7 +1,20 @@
-# sistemaportariainteligente
+# Sistema Portaria Inteligente
 
-# Este projeto consiste no desenvolvimento de um sistema de portaria inteligente digital, criado como Trabalho de Conclusão de Curso (TCC) do curso Técnico em Desenvolvimento de Sistemas – SENAI.
-# O sistema foi desenvolvido utilizando Python como linguagem principal, com o framework Flask empregado na construção da aplicação web e na criação das APIs. Para o desenvolvimento da interface, foram utilizadas as linguagens HTML, CSS e JavaScript, garantindo uma navegação intuitiva e responsiva. O mapeamento objeto-relacional é realizado por meio do SQLAlchemy, enquanto o MySQL é utilizado como banco de dados principal, sendo gerenciado com o auxílio do MySQL Workbench. A aplicação segue uma arquitetura modular baseada em Blueprints do Flask, permitindo a organização das funcionalidades em módulos independentes, o que facilita a manutenção, escalabilidade e clareza do código.
-# A solução foi pensada para resolver problemas comuns da portaria tradicional, como falhas no controle manual e baixa rastreabilidade das entradas e saídas de moradores e visitantes.
+  Este projeto consiste no desenvolvimento de um sistema de portaria inteligente digital, criado como Trabalho de Conclusão de Curso (TCC) do curso Técnico em Desenvolvimento de Sistemas – SENAI.
+  A solução desenvolvida permite o acesso de moradores por meio de reconhecimento facial, oferecendo agilidade na entrada, enquanto visitantes podem acessar o condomínio através de um código de acesso previamente cadastrado.
 
-O sistema propõe uma abordagem automatizada, segura e eficiente, utilizando reconhecimento facial para moradores e códigos temporários de acesso para visitantes, reduzindo a dependência de processos manuais e minimizando falhas humanas.
+# Tecnologias Utilizadas
+
+  Python: linguagem principal do projeto, responsável pelas regras de negócio e lógica do sistema.
+  Flask: framework web utilizado para a construção da aplicação, rotas, APIs e organização modular do sistema.
+  API REST: utilizada para permitir a comunicação entre o backend e as interfaces do sistema, garantindo integração.
+  Flet: utilizado no desenvolvimento da interface, permitindo a criação de telas interativas a partir do Python.
+  HTML5: utilizado para a estruturação das páginas do sistema.
+  CSS3: responsável pela estilização e identidade visual da aplicação.
+  JavaScript: utilizado para interações dinâmicas, validações em tempo real e melhoria da experiência do usuário.
+  Bootstrap: framework CSS adotado para garantir um layout responsivo e compatível com diferentes dispositivos.
+  MySQL 8.0: banco de dados relacional utilizado para o armazenamento seguro das informações, como usuários, moradores, visitantes e registros de acesso.
+
+# Link Protótipos Web e Mobile
+
+https://www.figma.com/design/IP3UZiwW1Gy7kCM7wHbq8Q/Prot%C3%B3tipo--1---Sistema-Portaria-Inteligente?node-id=0-1&p=f
