@@ -15,6 +15,13 @@
 - Bootstrap: framework CSS adotado para garantir um layout responsivo e compatível com diferentes dispositivos.
 - MySQL 8.0: banco de dados relacional utilizado para o armazenamento seguro das informações, como usuários, moradores, visitantes e registros de acesso.
 
+  **Melhorias Futuras**
+
+- Especificar e registrar de forma clara os horários de entrada e saída de moradores e visitantes.
+- Implementar o controle de entrada e saída de veículos, incluindo a identificação de placas de automóveis.
+- Garantir que o sistema mobile possua login único por usuário, evitando acessos simultâneos indevidos.
+- Implementar criptografia de senhas, aumentando a segurança dos dados dos usuários.
+
 # Link Protótipos Web e Mobile
 
 https://www.figma.com/design/IP3UZiwW1Gy7kCM7wHbq8Q/Prot%C3%B3tipo--1---Sistema-Portaria-Inteligente?node-id=0-1&p=f
