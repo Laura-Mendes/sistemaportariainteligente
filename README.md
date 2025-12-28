@@ -15,7 +15,8 @@
 - Bootstrap: framework CSS adotado para garantir um layout responsivo e compatível com diferentes dispositivos.
 - MySQL 8.0: banco de dados relacional utilizado para o armazenamento seguro das informações, como usuários, moradores, visitantes e registros de acesso.
 
-  **Melhorias Futuras**
+
+**Melhorias Futuras**
 
 - Especificar e registrar de forma clara os horários de entrada e saída de moradores e visitantes.
 - Implementar o controle de entrada e saída de veículos, incluindo a identificação de placas de automóveis.
